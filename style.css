@@ -308,6 +308,7 @@ p {
   z-index: 800;
   height: 100%;
   cursor: pointer; 
+    background-color: white
   }
   
 .cycle-prev { 
@@ -393,7 +394,7 @@ footer a:hover {
 
 /*--------------background colors----------*/
 .whiteBG {
-	background-color: darkgreen;
+	background-color: white;
 }
 
 .blueBG {
